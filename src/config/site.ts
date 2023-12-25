@@ -2,8 +2,8 @@ export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
   name: "R stack",
-  url: "https://rstack.vercel.app/",
-  ogImage: "https://rstack.vercel.app/ogImage.png",
+  url: "https://r-stack.vercel.app/",
+  ogImage: "https://r-stack.vercel.app/ogImage.png",
   description: "My stack for building side projects",
   mainNav: [
     {

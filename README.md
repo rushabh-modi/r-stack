@@ -2,7 +2,7 @@
 
 My Stack for building full-stack applications.
 
-### Version 1.0 : [HERE!](https://rstack.vercel.app/)
+### Version 1.0 : [HERE!](https://r-stack.vercel.app/)
 
 - T3 Stack (Next.js, Typescript, Tailwind CSS, Prisma)
 - Shadcn/UI
